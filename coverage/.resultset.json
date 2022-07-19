@@ -242,6 +242,11 @@
         "lines": [
           1,
           null,
+          null,
+          1,
+          1,
+          null,
+          1,
           null
         ]
       },
@@ -251,9 +256,132 @@
           null
         ]
       },
+      "/Users/tanjiro/Desktop/Ruby_Learning/2Mod/ics/dark-dream-4209/spec/features/recipes/index_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          0,
+          0,
+          0,
+          0,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/tanjiro/Desktop/Ruby_Learning/2Mod/ics/dark-dream-4209/spec/features/recipes/show_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/tanjiro/Desktop/Ruby_Learning/2Mod/ics/dark-dream-4209/spec/models/ingredient_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          2,
+          2,
+          null,
+          null,
+          1,
+          2,
+          2,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
       "/Users/tanjiro/Desktop/Ruby_Learning/2Mod/ics/dark-dream-4209/app/models/ingredient.rb": {
         "lines": [
           1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          6,
+          null,
+          null,
+          1,
+          0,
+          null,
           null
         ]
       },
@@ -274,12 +402,35 @@
           2,
           2,
           null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
           null
         ]
       },
       "/Users/tanjiro/Desktop/Ruby_Learning/2Mod/ics/dark-dream-4209/app/models/recipe_ingredient.rb": {
         "lines": [
           1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
           null
         ]
       },
@@ -298,16 +449,53 @@
           2,
           2,
           null,
+          null,
           null
         ]
       },
       "/Users/tanjiro/Desktop/Ruby_Learning/2Mod/ics/dark-dream-4209/app/models/recipe.rb": {
         "lines": [
           1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/tanjiro/Desktop/Ruby_Learning/2Mod/ics/dark-dream-4209/app/controllers/ingredients_controller.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/tanjiro/Desktop/Ruby_Learning/2Mod/ics/dark-dream-4209/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/Users/tanjiro/Desktop/Ruby_Learning/2Mod/ics/dark-dream-4209/app/controllers/recipes_controller.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          2,
+          null,
           null
         ]
       }
     },
-    "timestamp": 1658265267
+    "timestamp": 1658273467
   }
 }
